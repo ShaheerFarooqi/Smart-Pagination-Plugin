@@ -1,0 +1,28 @@
+.sp-pagination{
+	display:flex;
+	justify-content:space-between;
+	padding:10px 0;
+	border-top:1px solid;
+	border-bottom:1px solid;
+	max-width:800px;
+	margin:20px auto;
+}
+
+.pg-btn{
+	background:none;
+	border:none;
+	cursor:pointer;
+	font-size:20px;
+}
+
+.pg-info{
+	font-size: 16px;
+	display:flex;
+	gap:5px;
+	align-items:center;
+}
+.pg_btn_wrap{
+	display: flex;
+	align-items: center;
+	gap: 2px;
+}
